@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nearby Places</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="button">Find</string>
+    <string name="hospital">Hospital</string>
+</resources>

@@ -3,7 +3,7 @@
 - **Name:** Soumitra Mandal
 - **SBID:** SB20220232347
 
-# Externship Details:
+# Internship Details:
 
 - Virtual Internship - Android Application Development using Kotlin
 

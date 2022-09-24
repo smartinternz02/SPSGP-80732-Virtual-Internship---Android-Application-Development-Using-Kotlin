@@ -2,6 +2,8 @@
 
 - **Name:** Soumitra Mandal
 - **SBID:** SB20220232347
+- **Google Developer Profile:** https://g.dev/soumitramandal
+- **Demo Video Link:** 
 
 # Internship Details:
 

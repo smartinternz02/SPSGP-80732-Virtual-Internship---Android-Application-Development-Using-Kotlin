@@ -14,6 +14,10 @@ Minimum SDK: 21, Target SDK: 33
 
 com.soumitra.grocery
 
+App Icon
+:-------------------------:
+![](https://user-images.githubusercontent.com/90763881/191561907-b9f69cfd-dcdb-4cd7-8030-8c452394ca6c.png)
+
 # Grocery Application
 
 There are many pre-existing grocery list apps, but all of them don’t get worthy organic traffic due to the complicated user-interface. A broad age group operates such apps; therefore the user interface must be very preliminary and basic. Such apps are downloaded by the user for convenience, so we must not add too many security layers, as we know that security comes at the cost of convenience.

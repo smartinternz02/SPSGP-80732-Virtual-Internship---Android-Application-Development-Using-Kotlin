@@ -42,7 +42,7 @@ Coroutines are a lightweight thread, we use a coroutine to perform an operation 
 <details>
      <summary> Screenshorts </summary>
   
-   Screen Splash               | Adding to list           |  Grocery list preview |  Delete Items
+   Starting Screen         | Adding to list           |  Grocery list preview |  Delete Items
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/90763881/192113706-3d4f691a-5413-47a8-8da4-9de571b9f3c9.jpg)|![](https://user-images.githubusercontent.com/90763881/192113755-42a0b5f3-b9c7-46e6-bc4d-de90d5d7a9c3.jpg))|![](https://user-images.githubusercontent.com/90763881/192113778-b129b801-978b-4519-b62a-002fc3cdbe7f.jpg)|![](https://user-images.githubusercontent.com/90763881/192113817-08587d8c-cb9d-4f17-a7b7-239bb76401d6.jpg)|
   

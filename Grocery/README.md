@@ -11,8 +11,9 @@ Android Studio Dolphin | 2021.3.1 for Windows 64-bit
 Minimum SDK: 21, Target SDK: 33
 
 # Package Name
-
-com.soumitra.grocery
+```https
+  com.soumitra.grocery
+```
 
 App Icon
 :-------------------------:

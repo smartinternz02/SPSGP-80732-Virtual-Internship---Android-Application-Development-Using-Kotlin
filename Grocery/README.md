@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/90763881/191561907-b9f69cfd-dcdb-4cd7-8030-8c452394ca6c.png" alt="App lcon">
+</p>
+
 # Project-2 "Grocery"
 
 This android application can make a list of items with their Price & Quantity.
@@ -14,10 +18,6 @@ Minimum SDK: 21, Target SDK: 33
 ```https
   com.soumitra.grocery
 ```
-
-App Icon
-:-------------------------:
-![](https://user-images.githubusercontent.com/90763881/191561907-b9f69cfd-dcdb-4cd7-8030-8c452394ca6c.png)
 
 # Grocery Application
 
